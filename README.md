@@ -8,3 +8,7 @@ https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/Binary%20G
 ### CyclicRotation
 Rotate an array to the right by a given number of steps.
 https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/CyclicRotation.sc
+
+### OddOccurrencesInArray
+Find value that occurs in odd number of elements.
+https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/OddOccurrencesInArray.sc
