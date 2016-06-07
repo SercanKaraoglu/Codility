@@ -1,4 +1,4 @@
-name := "system-tester"
+name := "Codility"
 
 version := "1.0"
 
