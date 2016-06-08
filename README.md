@@ -34,3 +34,8 @@ https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/PermMissin
 
 Find the earliest time when a frog can jump to the other side of a river.
 https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/FrogRiverOne.sc
+
+###PermCheck
+
+Check whether array A is a permutation.
+https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/PermCheck.sc
