@@ -29,3 +29,8 @@ https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/TapeEquili
 
 Find the missing element in a given permutation.
 https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/PermMissingElem.sc
+
+### FrogRiverOne
+
+Find the earliest time when a frog can jump to the other side of a river.
+https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/FrogRiverOne.sc
