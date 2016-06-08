@@ -19,3 +19,8 @@ https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/OddOccurre
 
 Count minimal number of jumps from position X to Y.
 https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/FrogJmp.sc
+
+### TapeEquilibrium
+
+Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
+https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/TapeEquilibrium.sc
