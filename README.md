@@ -24,3 +24,8 @@ https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/FrogJmp.sc
 
 Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/TapeEquilibrium.sc
+
+###  PermMissingElem
+
+Find the missing element in a given permutation.
+https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/PermMissingElem.sc
