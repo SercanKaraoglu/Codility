@@ -8,6 +8,6 @@ object Solution {
         path -= it
         res+1
     }
-    if(path.nonEmpty&&res!=1) -1 else if(path.size>=1&&res==1) -1 else res - 1
+    if(path.nonEmpty&&res>=1) -1 else res - 1
   }
 }
