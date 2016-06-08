@@ -13,7 +13,7 @@ object Solution1 {
 
     lazy val y=A.scanRight(0)(_ + _).slice(1, A.size)
 
-    x zip(y) map(p=>Math.abs(p._1-p._2)) min
+    x zip(y) map(p=>abs(p._1-p._2)) min
 
   }
 }
