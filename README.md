@@ -39,3 +39,8 @@ https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/FrogRiverO
 
 Check whether array A is a permutation.
 https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/PermCheck.sc
+
+###Missing Integer
+
+Find the minimal positive integer not occurring in a given sequence.
+https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/MissingInteger.sc

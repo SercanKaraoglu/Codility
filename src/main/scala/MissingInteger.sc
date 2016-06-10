@@ -1,15 +1,15 @@
 import scala.collection.mutable
 
-val N = Array(-1)
+object Solution {
+  def solution(A: Array[Int]): Int = {
 
-val ordering = Ordering.fromLessThan[Int](_ < _)
-val perm = mutable.TreeSet.empty(ordering) ++ (1 to N.size toSet)
+    val perm = 1 to A.size + 1 to (mutable.TreeSet.newCanBuildFrom[Int])
 
-N.foldLeft(perm) {
-  case (res, it) =>
-    perm -= it
-}.toList match {
-  case x :: xs => x
-  case x :: Nil => x
-  case Nil => -1
+    val value = A.foldLeft(perm) {
+      case (res, it) =>
+        res -= it
+    }
+
+    if (value.size > 0) value.firstKey else -1
+  }
 }
