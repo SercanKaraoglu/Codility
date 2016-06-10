@@ -44,3 +44,8 @@ https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/PermCheck.
 
 Find the minimal positive integer not occurring in a given sequence.
 https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/MissingInteger.sc
+
+###Max Counters
+
+Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
+https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/MaxCounters.sc
