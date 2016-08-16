@@ -49,3 +49,7 @@ https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/MissingInt
 
 Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
 https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/MaxCounters.sc
+
+###Passing Cars
+Count the number of passing cars on the road.
+https://github.com/SercanKaraoglu/Codility/blob/master/src/main/scala/PassingCars.sc
